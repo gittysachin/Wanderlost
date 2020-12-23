@@ -140,10 +140,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhausser/wanderlost.git"
+    "url": "git+https://github.com/gittysachin/wanderlost.git"
   },
   "bugs": {
-    "url": "https://github.com/dhausser/wanderlost/issues"
+    "url": "https://github.com/gittysachin/wanderlost/issues"
   },
   "homepage": "https://testing-react-app.netlify.app",
   "browserslist": [
